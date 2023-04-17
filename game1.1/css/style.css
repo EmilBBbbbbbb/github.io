@@ -1,0 +1,203 @@
+:root{
+  --transform: 0px;
+  --left1: 136px;
+  --top1:136px;
+  --left2: 136px;
+  --top2:136px;
+  --left3: 136px;
+  --top3:136px;
+  --left4: 136px;
+  --top4:136px;
+  --left5: 136px;
+  --top5:136px;
+  --left6: 136px;
+  --top6:136px;
+  --left7: 136px;
+  --top7:136px;
+  --left8: 136px;
+  --top8:136px;
+  --left9: 136px;
+  --top9:136px;
+  --left10: 136px;
+  --top10:136px;
+  --left11: 136px;
+  --top11:136px;
+  --left12: 136px;
+  --top12:136px;
+  --left13: 136px;
+  --top13:136px;
+  --left14: 136px;
+  --top14:136px;
+  --left15: 136px;
+  --top15:136px;
+
+
+}
+
+
+.element1 {
+  /* Стили самого элемента. */
+  position: absolute;
+  left: var(--left1);
+  top: var(--top1);
+  width: 128px;
+  height: 128px;
+  background: url('../img/Frame1.png') no-repeat ;
+  cursor: pointer;
+
+}
+
+.element2 {
+  /* Стили самого элемента. */
+  position: absolute;
+  left: var(--left2);
+  top: var(--top2);
+  width: 128px;
+  height: 128px;
+  background: url('../img/Frame2.png') no-repeat ;
+  cursor: pointer;
+
+}
+.element3 {
+  /* Стили самого элемента. */
+  position: absolute;
+  left: var(--left3);
+  top: var(--top3);
+  width: 128px;
+  height: 128px;
+  background: url('../img/Frame3.png') no-repeat ;
+  cursor: pointer;
+
+}
+.element4 {
+  /* Стили самого элемента. */
+  position: absolute;
+  left: var(--left4);
+  top: var(--top4);
+  width: 128px;
+  height: 128px;
+  background: url('../img/Frame4.png') no-repeat ;
+  cursor: pointer;
+
+}
+.element5 {
+  /* Стили самого элемента. */
+  position: absolute;
+  left: var(--left5);
+  top: var(--top5);
+  width: 128px;
+  height: 128px;
+  background: url('../img/Frame5.png') no-repeat ;
+  cursor: pointer;
+
+}
+.element6 {
+  /* Стили самого элемента. */
+  position: absolute;
+  left: var(--left6);
+  top: var(--top6);
+  width: 128px;
+  height: 128px;
+  background: url('../img/Frame6.png') no-repeat ;
+  cursor: pointer;
+
+}
+.element7 {
+  /* Стили самого элемента. */
+  position: absolute;
+  left: var(--left7);
+  top: var(--top7);
+  width: 128px;
+  height: 128px;
+  background: url('../img/Frame7.png') no-repeat ;
+  cursor: pointer;
+
+}
+.element8 {
+  /* Стили самого элемента. */
+  position: absolute;
+  left: var(--left8);
+  top: var(--top8);
+  width: 128px;
+  height: 128px;
+  background: url('../img/Frame8.png') no-repeat ;
+  cursor: pointer;
+
+}
+.element9 {
+  /* Стили самого элемента. */
+  position: absolute;
+  left: var(--left9);
+  top: var(--top9);
+  width: 128px;
+  height: 128px;
+  background: url('../img/Frame9.png') no-repeat ;
+  cursor: pointer;
+
+}
+.element10 {
+  /* Стили самого элемента. */
+  position: absolute;
+  left: var(--left10);
+  top: var(--top10);
+  width: 128px;
+  height: 128px;
+  background: url('../img/Frame10.png') no-repeat ;
+  cursor: pointer;
+
+}
+.element11 {
+  /* Стили самого элемента. */
+  position: absolute;
+  left: var(--left11);
+  top: var(--top11);
+  width: 128px;
+  height: 128px;
+  background: url('../img/Frame11.png') no-repeat ;
+  cursor: pointer;
+
+}
+.element12 {
+  /* Стили самого элемента. */
+  position: absolute;
+  left: var(--left12);
+  top: var(--top12);
+  width: 128px;
+  height: 128px;
+  background: url('../img/Frame12.png') no-repeat ;
+  cursor: pointer;
+
+}
+.element13 {
+  /* Стили самого элемента. */
+  position: absolute;
+  left: var(--left13);
+  top: var(--top13);
+  width: 128px;
+  height: 128px;
+  background: url('../img/Frame13.png') no-repeat ;
+  cursor: pointer;
+
+}
+.element14 {
+  /* Стили самого элемента. */
+  position: absolute;
+  left: var(--left14);
+  top: var(--top14);
+  width: 128px;
+  height: 128px;
+  background: url('../img/Frame14.png') no-repeat ;
+  cursor: pointer;
+
+}
+.element15 {
+  /* Стили самого элемента. */
+  position: absolute;
+  left: var(--left15);
+  top: var(--top15);
+  width: 128px;
+  height: 128px;
+  background: url('../img/Frame15.png') no-repeat ;
+  cursor: pointer;
+
+}
